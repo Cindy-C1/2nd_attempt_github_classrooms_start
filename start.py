@@ -7,5 +7,5 @@ Test Program
 # Once done, commit the changes
 
 
-print ("Hi there, my name is Mark Ramos")
+print ("Hi there, my name is Xinyang Chen")
 print ("My GitHub username is -------")
